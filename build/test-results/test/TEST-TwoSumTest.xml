@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TwoSumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-24T21:33:53" hostname="DESKTOP-T58B4PG" time="0.002">
+<testsuite name="TwoSumTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-25T03:19:36" hostname="DESKTOP-T58B4PG" time="0.002">
   <properties/>
-  <testcase name="whenGivenAnArrayOfTwoIndexes_ShouldReturnTheIndexes" classname="TwoSumTest" time="0.002"/>
+  <testcase name="whenGivenAnArrayOfThreeIndexes_ShouldReturnTwoIndexesThatSumToTarget" classname="TwoSumTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
